@@ -1,0 +1,6 @@
+{
+  "name": "Startup Evaluation & Ranking Engine",
+  "description": "Full-stack startup ranking engine and interview-ready architecture with locked contracts and transparent scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
